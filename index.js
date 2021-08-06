@@ -96,7 +96,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = 'Ahmed Hamed.txt';
+Typer.file = 'AhmedHamed.txt';
 Typer.init();
 
 var timer = setInterval('t();', 30);
