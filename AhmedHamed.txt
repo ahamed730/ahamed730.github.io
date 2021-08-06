@@ -1,6 +1,6 @@
 <span id="a">ahmed@hamed</span>:<span id="b">~</span><span id="c">$</span> cd AhmedHamed_Profile
 <span id="a">ahmed@hamed</span>:<span id="b">~</span><span id="c">$</span> cat who-am-I.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". 
+My favorite recruiter, "<span id="k">Its You</span>". 
 
 Hey There! Thanks for taking the time to check out my page. It is pretty barebones for now, but I have some pretty interesting ideas coming soon<p>I'm sure by now you have surmised my name is Ahmed hamed. But <strong>Who</strong> is <strong>Ahmed Hamed</strong></p> 
 <p>  Well I am currently a cloud engineer for IBM. I help some of the most innovative and well known companies in the world ideate, code, and deploy applications following Cloud Native principles. I pride myself on being a trusted partner for my clients, advising on and implementing a large set of methodologies and technologies. 
@@ -8,7 +8,7 @@ Hey There! Thanks for taking the time to check out my page. It is pretty barebon
 
 Thanks for taking the time to know a bit more about me, feel free to send me an email if you have any questions at <a href="mailto:ahmedhameddev@gmail.com">Email</a>.
 
-<p>Or if you just want to connect <a href="Your email ID">LinkedIn</a> </p>
+<p>Or if you just want to connect <a href="https//:www.linkedin.com/in/ahmed-hamed-dev">LinkedIn</a> </p>
 
 
 
