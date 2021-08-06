@@ -6,7 +6,7 @@ Hey There! Thanks for taking the time to check out my page. It is pretty barebon
 <p>  Well I am currently a cloud engineer for IBM. I help some of the most innovative and well known companies in the world ideate, code, and deploy applications following Cloud Native principles. I pride myself on being a trusted partner for my clients, advising on and implementing a large set of methodologies and technologies. 
     These range from devOps and agile practices to refactoring code to follow Object Oriented Principles and deploying them to Kubernetes Clusters.</p>
 
-Thanks for taking the time to know a bit more about me, feel free to send me an email if you have any questions at <a href="mailto: ahmedhameddev@gmail.com">Email</a>.
+Thanks for taking the time to know a bit more about me, feel free to send me an email if you have any questions at <a href="mailto:ahmedhameddev@gmail.com">Email</a>.
 
 <p>Or if you just want to connect <a href="Your email ID">LinkedIn</a> </p>
 
