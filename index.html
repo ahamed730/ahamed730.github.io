@@ -24,13 +24,12 @@
   </head>
 
   <body>
-   <div id = "terminal">
-   </div>
+   <div id = "terminal"></div>
+
    <script type = "text/javascript">
-    import { Terminal } from 'xterm';
-    var term = new Terminal();
-    term.open(document.getElementById('terminal'), true);
-    term.fit();
-    term.writeln('Hello World!');
+      var term = new Terminal();
+      term.open(document.getElementById('terminal'));
+      term.writeln('Hello World!');
    </script>
+  </body>
 </html>
